@@ -1,10 +1,10 @@
 # sycore
 <html>
 <body>
-<h1>my noobs song
+<h1> my noobs song</h1>
 <p>
-when i look in the side mirror<br>
-i see a fighter looking meee<br>
+  <em>when</em> i look in the side mirror<br>
+<br>i see a fighter looking <strong>meee</strong></br>
 when i look in my mirror<br>
 i see a beast with the face of me<br>
 when i look in the side of mirror<br>
